@@ -7,6 +7,7 @@ An openweathermap API based app that fetches data for the entered city and retur
 
 - Make sure the required imports are installed in your machine.  This can be done using pip install 'your-library-name'.
 - Place all images of the weather icons and the py file in one folder.
+- Add your key by getting the free API available at https://api.openweathermap.org/.
 - Run the folder in a Python Environment and enjoy!
 
 ## Sample Demonstration
